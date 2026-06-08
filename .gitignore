@@ -1,0 +1,14 @@
+# Ignorar archivos compilados y archivos de entorno/IDE
+*.class
+bin/
+target/
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Logs
+*.log
